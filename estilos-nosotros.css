@@ -112,8 +112,8 @@ body{
 }
 
 blockquote{
-    background: rgb(250, 243, 235);
-    border-left: 10px solid rgb(245, 200, 142);
+    background: rgb 250, 243, 235;
+    border-left: 10px solid rgb 245, 200, 142;
     margin-left: 150px;
     margin-bottom: 50px;
     padding: 10px 10px;
