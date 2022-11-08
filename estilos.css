@@ -58,7 +58,9 @@ body{
 
 .texto1{
     text-align:justify;
-    margin: 10px;
+    margin: 20px;
+    text-indent: 10px;
+    line-height: 30px;
 }
 
 .caja2{
