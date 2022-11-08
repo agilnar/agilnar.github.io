@@ -112,8 +112,8 @@ body{
 }
 
 blockquote{
-    background: antiquewhite;
-    border-left: 10px solid aquamarine;
+    background: #faebd7;
+    border-left: 10px solid #ecae5c;
     margin-left: 150px;
     margin-bottom: 50px;
     padding: 10px 10px;
