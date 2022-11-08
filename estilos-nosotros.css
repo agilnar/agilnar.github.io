@@ -111,7 +111,7 @@ body{
     margin-right: 20px;
 }
 
-#blockquote{
+blockquote{
     background: antiquewhite;
     border-left: 10px solid aquamarine;
     margin-left: 150px;
